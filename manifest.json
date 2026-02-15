@@ -1,0 +1,16 @@
+{
+  "name": "Line Breaker - 自動改行ツール",
+  "short_name": "LineBreaker",
+  "description": "テキストを指定した文字数で自動的に改行するツールです。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#17171c",
+  "theme_color": "#17171c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
